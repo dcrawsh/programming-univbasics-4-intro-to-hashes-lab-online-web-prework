@@ -4,7 +4,8 @@ end
 
 def my_hash
   Hash.new
-  
+  apples: red
+  bananas: yellow
 end
 
 def pioneer
