@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  Hash.new
+  fruit_list=Hash.new
   apples: red
   bananas: yellow
 end
